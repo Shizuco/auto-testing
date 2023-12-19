@@ -1,0 +1,13 @@
+{
+    "name": "Auto Testing Lab 1",
+    "author": "Suvorova Mariia",
+    "private": true,
+    "type": "module",
+    "dependencies": {
+        "mtrx": "^0.1.6"
+    },
+    "devDependencies": {
+        "chai": "^4.3.10",
+        "mocha": "^10.2.0"
+    }
+}
