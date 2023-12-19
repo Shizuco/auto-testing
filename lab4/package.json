@@ -1,0 +1,13 @@
+{
+    "name": "Auto Testing Lab 4",
+    "author": "Suvorova Mariia",
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "test": "cypress run",
+        "run": "cypress run --headed"
+    },
+    "devDependencies": {
+        "cypress": "^13.3.1"
+    }
+}
