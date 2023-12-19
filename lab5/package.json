@@ -1,0 +1,12 @@
+{
+    "name": "Auto Testing Lab 5",
+    "author": "Suvorova Mariia",
+    "private": true,
+    "type": "module",
+    "dependencies": {
+        "chai": "^4.3.10",
+        "mocha": "^10.2.0",
+        "save": "^2.9.0",
+        "selenium-webdriver": "^4.14.0"
+    }
+}
