@@ -1,0 +1,12 @@
+{
+    "name": "Auto Testing Lab 3",
+    "author": "Suvorova Mariia",
+    "private": true,
+    "type": "module",
+    "dependencies": {
+        "chai": "^4.3.8",
+        "mocha": "^10.2.0",
+        "sinon": "^17.0.0",
+        "sinon-chai": "^3.7.0"
+    }
+}
